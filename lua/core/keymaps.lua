@@ -14,5 +14,6 @@ vim.opt.shiftwidth = 2
 vim.opt.shiftround = true
 vim.opt.expandtab = true
 vim.opt.number = true
+vim.opt.guifont = Ubuntu_Mono
 
 vim.keymap.set('n', '<leader>h', ':nohlsearch<CR>')
